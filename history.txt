@@ -1,0 +1,501 @@
+    3  ls -al
+    4  mv .vscode vscode
+    5  ls
+    6  cd vscode
+    7  ls
+    8  python programbiz.py
+    9  clear
+   10  python programbiz.py
+   11  /usr/local/bin/python3
+   12  clear
+   13  print(num3,"is the largest numaber.")
+   14  print("HEllo Word")
+   15  print("HEllo Word")
+   16  print("HEllo Word")
+   17  python
+   18  cd Futsal
+   19  pwd
+   20  mkdir Futsal_Woman Futsal_Man
+   21  cd ../Basketball
+   22  pwd
+   23  mkdir Basketball_Women Basketball_Man
+   24  ls
+   25  cd ../Swimming
+   26  mkdir Swimming_Women Swimming_Men
+   27  cd Swimming_Women
+   28  mkdir Butterfly Freestyle
+   29  cd ../Swimming_Men
+   30  mkdir Freestyle Butterfly
+   31  cd ../../Futsal/Futsal_Women
+   32  pwd
+   33  cd ../../Futsal/Futsal_Woman
+   34  touch Emma Olivia Isabella Mia Sophia
+   35  echo "Futsal_Golkeeper">>Emma
+   36  echo "Futsal_DEfender">>Olivia
+   37  echo "Futsal_Winger">>Isabella
+   38  echo "Futsal_Winger2>>Mia
+   39  cat Mia
+   40  cat Mia
+   41  echo "Futsal_Winger">Mia
+   42  echo "Futsal_pivot">Sophia
+   43  cat Mia
+   44  cat Mia Olivia Isabella Mia Sophia
+   45  tree
+   46  ls _l
+   47  ls -l
+   48  chmod 660 Isabella
+   49  ls -l
+   50  cd ../Futsal_Man
+   51  ls
+   52  touch Robert Martin James Liam Lucas
+   53  echo "Futsal_Goalkeeper">Robert "Futsal_Defender">Martin
+   54  cat Martin
+   55  echo "Futsal_Winger">James,Liam
+   56  cat Liam
+   57  cat James
+   58  echo "Futsal_Winger">James "Futsal_Winger">Liam "Futsal_Pivot">Lucas
+   59  cat Liam Lucas Martin Robert James
+   60  rm -r James,Liam
+   61  ls -l
+   62  u=rw-, g=-, o=- Martin 
+   63  chmod 600 Martin
+   64  ls -l
+   65  cd ../../Basketball/Basketball_Women
+   66  touch Ava Evelyn Hazel Bella
+   67  echo "Baskketball_Point-Guard">Ava "Basketball_Shootiing-Guard">Evelyn "Basketball_Center">Hazel "Basketball_Small-Forward">Bella
+   68  echo "Basketball_Power-Forward">../../Futsal/Futsal_Woman/Olivia
+   69  cd ../../Futsal/Futsal_Woman/Olivia
+   70  cd ../../Futsal/Futsal_Woman
+   71  cat Olivia
+   72  cp ../../Futsal/Futsal_Woman/Olivia
+   73  cp ../../Futsal/Futsal_Woman/Olivia cd ~/Desktop/Clarusway/ABC_COLLAGE/Basketball/Basketball_Man
+   74  pwd
+   75  cd ~
+   76  ls
+   77  cd ~/Desktop/Clarusway/ABC_Collage/Basketball/Basketball_Man
+   78  ls
+   79  touch Logan Jack Joseph MAtthew David
+   80  echo "Basketbal_Point-Guard">>Logan "Basketball_Shooting-Guard">>Jack "Basketball_Center">>Joseph "Basketball_Power-Forward" MAtthew "Basketball_Small-Forward">>David
+   81  chmod 444 David
+   82  ls -l
+   83  cd ../../Swimming/Swimming_Woman/freestyle
+   84  cd ../../Swimming/Swimming_Woman/Freestyle
+   85  cd ../../Swimming/Swimming_Women/Freestyle
+   86  echo "Swimminng_Freestle">>Scarlett
+   87  pwd
+   88  cp ../../../Futsal/Futsal_Woman/Mia
+   89  cp ../../../Futsal/Futsal_Woman/Mia .
+   90  pwd
+   91  cd ../Butterfly
+   92  pwd
+   93  echo "Swimming_Butterfly">>Ellie
+   94  echo "Swimming_Butterfly">>../../../Futsal/Futsal_Woman/Emma
+   95  cp ../../../Futsal/Futsal_Woman/Emma .
+   96  pwd
+   97  cd ../../Swimming_Man/Freestyle
+   98  cd ../../Swimming_Men/Freestyle
+   99  pwd
+  100  echo Carter
+  101  nano
+  102  sodu apt -get install nano
+  103  sudo apt -get install nano
+  104  clear
+  105  nano
+  106  ssh -i cert.pem
+  107  ping 5 www.google.com
+  108  ping
+  109  clear
+  110  whoami
+  111  ping google
+  112  ping google.com
+  113  ping5 google.com
+  114  clear
+  115  clear
+  116  sudo blu install vim
+  117  bru install vim
+  118  blue install vim
+  119  sudo apt install vim
+  120  clear
+  121  sudo snap find vim
+  122  snap find vi
+  123  clear
+  124  sudo blue install tree
+  125  blue install tree
+  126  brew install vim
+  127  vim
+  128  clear
+  129  brew install vim
+  130  vim nano.txt
+  131  vim nano.txt
+  132  vim
+  133  clear
+  134  vim nano.txt
+  135  cat nano.txt
+  136  vim nano.txt
+  137  cat nano.txt
+  138  cat nano.txt.swn
+  139  /usr/local/bin/python3
+  140  git push -u origin main
+  141  git push -u origin main
+  142  cd Desktop/git-projects
+  143  pwd
+  144  git status
+  145  git remote add origin https://github.com/HasanBlknc/Clarusway.git
+  146  git push -u origin main
+  147  git push -u origin main
+  148  git https://github.com/HasanBlknc/Clarusway.git
+  149  touch deneme.txt
+  150  git clone https://github.com/HasanBlknc/Clarusway.git
+  151  git branch
+  152  git branch demobranch
+  153  clear
+  154  git checkout demobranch
+  155  git branch
+  156  vim hello.py
+  157  cat hello.py
+  158  vim hello.py
+  159  git --version
+  160  git config --global
+  161  clear
+  162  git config --global user.name "hasan"
+  163  git config --version
+  164  clear
+  165  git --version
+  166  git config --global user.name "hasan"
+  167  git config --global user.email "swhsnblknc@gmail.com"
+  168  git config --global core.editor "nano"
+  169  git config --list
+  170  clear
+  171  pwd
+  172  mkdir first_projects
+  173  cd first_projects
+  174  ls -al
+  175  git init
+  176  ls -l
+  177  ls -ll
+  178  ll
+  179  ls -a
+  180  clear
+  181  ls -al
+  182  cd ..
+  183  ls -al
+  184  rm -r git-project
+  185  pwd
+  186  rm -r git-project
+  187  cd ..
+  188  mkdir git
+  189  ls
+  190  cd git
+  191  git init
+  192  clear
+  193  ls -al
+  194  git help
+  195  clear
+  196  rm git-project
+  197  cd ..
+  198  pwd
+  199  rm -r git-project
+  200  git rm
+  201  cd git
+  202  pwd
+  203  git status
+  204  cd git
+  205  pwd
+  206  git clone https://github.com/Musti4096/Python_Assigments.git
+  207  clear
+  208  ls -l
+  209  ls -al
+  210  cd Python_Assigments
+  211  ls -l
+  212  clear
+  213  git version
+  214  git help
+  215  clear
+  216  git rm help
+  217  git status
+  218  git colon help
+  219  git clone address
+  220  git clone help
+  221  git clone --help
+  222  pwd
+  223  cd ..
+  224  pwd
+  225  clear
+  226  ls -al
+  227  touch file1.txt
+  228  ls -l
+  229  la -al
+  230  ls -a
+  231  touch index.html
+  232  ls a
+  233  ls -a
+  234  vim index.html
+  235  vim index.html
+  236  cat index.html
+  237  clear
+  238  vim index.html
+  239  git add index.html
+  240  git add .
+  241  git add ~A
+  242  git add -A
+  243  ls -a
+  244  vim index.html
+  245  rm -r index.html
+  246  vim index.html
+  247  ls -al
+  248  rm -r file1.txt
+  249  ls -al
+  250  rm -r .index.html
+  251  rm -r index.html
+  252  ls -l
+  253  touch index.html
+  254  vim index.html
+  255  clear
+  256  git status
+  257  git commit index.html
+  258  git log
+  259  git commit index.html
+  260  git commit -m "crated new index.html"
+  261  git amend index.html
+  262  git log
+  263  clear
+  264  ls -al
+  265  touch index.js
+  266  ls -al
+  267  clear
+  268  git add index.js
+  269  git commit -m "index.js file is added"
+  270  vim index.html
+  271  ls -al
+  272  git status
+  273  git add .
+  274  ls -al
+  275  git status
+  276  clear
+  277  git commit -m "this is a comment"
+  278  git log
+  279  lear
+  280  clear
+  281  git clear --help
+  282  git --help
+  283  clear
+  284  git add --help
+  285  git commit -m --help
+  286  tree
+  287  git tree
+  288  git log
+  289  vim index.html
+  290  clear
+  291  ls -al
+  292  rm -r index.html.swp
+  293  rm -r .index.html.swp
+  294  ls -al
+  295  vim index.html
+  296  ls -al
+  297  clear
+  298  git log
+  299  git checkout 
+  300  git checkout  4fa21c7b2cbd53ee6c9865c61ef2d46245a3a71b
+  301  ls -al
+  302  git log
+  303  git checkout "4fa21c7b2cbd53ee6c9865c61ef2d46245a3a71b"
+  304  git checkout b42a2e04b44d3998151b64750b3b56db447344da
+  305  git log
+  306  git checkout 4fa21c7b2cbd53ee6c9865c61ef2d46245a3a71b
+  307  git log
+  308  lear
+  309  clear
+  310  pwd
+  311  ls -l
+  312  cd ..
+  313  ls -l
+  314  cd Python
+  315  ls -l
+  316  cd assigment
+  317  git init
+  318  git commit -m "fibonacci assigment"
+  319  git add commit -m "assigment fibonacci"
+  320  git branch -M main
+  321  git remote add origin https://github.com/HasanBlknc/Python.git
+  322  git push -u origin main
+  323  clear
+  324  git status
+  325  git add .
+  326  git status
+  327  git push -u origin main
+  328  git remmote add origin https://github.com/HasanBlknc/Python.git
+  329  git remote add origin https://github.com/HasanBlknc/Python.git
+  330  git push -u origin main
+  331  clear
+  332  ls -al
+  333  git status
+  334  git add commit -m "assigment fibonacci"
+  335  git commit -m "assigment fibonacci"
+  336  git status
+  337  clear
+  338  git push -u origin main
+  339  pwd
+  340  cd Desktop
+  341  cd Clarusway/Python/assigment
+  342  pwd
+  343  ls -l
+  344  ls -al
+  345  git add commit -m "basic python assigment"
+  346  git status
+  347  git add .
+  348  git add commit -m "basic assigment"
+  349  git status
+  350  git commit -m origin "python exercise"
+  351  git status
+  352  git add . 
+  353  git status
+  354  git commit -m "python exercise"
+  355  git log
+  356  git push -u origin main
+  357  git remote add origin https://github.com/HasanBlknc/Python.git
+  358  git push origin main
+  359  git init
+  360  ls -al
+  361  rm -r .git
+  362  ls -al
+  363  clear
+  364  cd Clarusway notlar
+  365  cd Clarusway_notlar
+  366  cd ../..
+  367  pwd
+  368  cd Clarusway
+  369  cd HTML
+  370  pwd
+  371  cd patikadev
+  372  pwd
+  373  cd Clarusway_notlar
+  374  pwd
+  375  git init
+  376  clear
+  377  git status
+  378  git add notlar.html
+  379  git status
+  380  git commit -m "Git and GitHub basic Comments"
+  381  git status
+  382  clear
+  383  git log
+  384  git remote add origin https://github.com/HasanBlknc/Clarusway
+  385  git push -u origin main
+  386  git push -u origin master
+  387  clear
+  388  git remote add origin https://github.com/HasanBlknc/Clarusway-notlar.git
+  389  git push -u origin main
+  390  git branch -M main
+  391  git remote add origin https://github.com/HasanBlknc/Clarusway-notlar.git
+  392  git push -u origin main
+  393  pwd
+  394  clear
+  395  pwd
+  396  lsc-al
+  397  ls -al
+  398  git push -u origin main
+  399  git remote add origin https://github.com/HasanBlknc/Clarusway_notlar.git
+  400  git push -u origin main
+  401  cd "/Users/hasanbalkanci/Desktop/my-github/lesson"
+  402  cd "/Users/hasanbalkanci/Desktop/my-github/lesson"
+  403  cd "/Users/hasanbalkanci/Desktop/my-github/lesson"
+  404  ls -al
+  405  mv .git test
+  406  cd test
+  407  ls -a
+  408  cd .. test2
+  409  cd ../test2
+  410  cd ..
+  411  cd lesson
+  412  cd test2
+  413  git branch
+  414  git init
+  415  git branch
+  416  git clone https://github.com/HasanBALKANCI/test2
+  417  cd ..
+  418  git clone https://github.com/HasanBALKANCI/tets3.git
+  419  cd test3
+  420  git add .
+  421  cd test3
+  422  cd "/Users/hasanbalkanci/Desktop/my-github/lesson"
+  423  cd "/Users/hasanbalkanci/Desktop/my-github/lesson/HasanBALKANCI.github.io"
+  424  git branch
+  425  git branch newbranch
+  426  git checkout newbranch
+  427  git branch
+  428  nano index.html
+  429  git status
+  430  git add .
+  431  git commit -m "name was changed"
+  432  git push
+  433  git push -u newbranch
+  434  git push -u origin newbranch
+  435  git pull
+  436  git branch
+  437  git checkout main
+  438  git branch -d newbranch
+  439  git checkout main
+  440  git merge newbranch
+  441  git merge origin/newbranch
+  442  git push 
+  443  /usr/local/bin/python3 /Users/hasanbalkanci/.vscode/extensions/ms-python.python-2022.2.1924087327/pythonFiles/shell_exec.py /usr/local/bin/python3 -m pip install -U ipykernel /var/folders/xx/wg3t9db51k79_7lmlggx_2d80000gn/T/tmp-1348490CoV424vMz.log
+  444  pip list
+  445  pip --version
+  446  pip list
+  447  pip show my_package
+  448  /usr/local/bin/python3
+  449  pwd
+  450  ls -al
+  451  git push
+  452  git remote add origin https://github.com/HasanBALKANCI/SQL
+  453  git push -u origin main
+  454  wsl
+  455  wsl
+  456  pwd
+  457  wsl
+  458  pwd
+  459  mkdir l_exercise
+  460  cd l_exercise
+  461  pwd
+  462  mkdir Lessons
+  463  cd Lessons
+  464  mkdir HTML
+  465  mkdir -p Linux/CLI/Comands
+  466  mkdir -p SDLC/DevOps
+  467  cd SDLC
+  468  mkdir Waterfall
+  469  cd ..
+  470  cd Linux
+  471  mkdir GUI
+  472  cd ..
+  473  pwd
+  474  touch introduction.txt
+  475  ls
+  476  la -al
+  477  ls -al
+  478  pwd
+  479  clear
+  480  touch SDLC/DevOps/Dev.txt
+  481  touch Ops.txt
+  482  mv Ops.txt SDLC/DevOps
+  483  cd SDLC
+  484  touch sdl.txt
+  485  mv sdl.txt sdlc.txt
+  486  touch agile.txt
+  487  touch Waterfall/phases.txt
+  488  touch Waterfall/advantage.txt
+  489  touch ../HTML/html.txt cascades.css javascript.js
+  490  touch ../HTML/html.txt, cascades.css, javascript.js
+  491  nano test.txt
+  492  head 5
+  493  head -5 test.txt
+  494  man head
+  495  tail -2 test.txt
+  496  less test.txty
+  497  less test.txty
+  498  la -a
+  499  ls -a
+  500  history
+  501  clear
+  502  history > history.txt
+Mon Apr 11 14:45:07 CEST 2022
